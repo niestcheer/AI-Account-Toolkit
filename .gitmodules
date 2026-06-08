@@ -85,3 +85,6 @@
 [submodule "packages/openai/oai-Team-SSO-OIDC"]
 	path = packages/openai/oai-Team-SSO-OIDC
 	url = https://github.com/otso2200/oai-Team-SSO-OIDC.git
+[submodule "packages/codex/CPA2sub2API"]
+	path = packages/codex/CPA2sub2API
+	url = https://github.com/gtxx3600/CPA2sub2API.git

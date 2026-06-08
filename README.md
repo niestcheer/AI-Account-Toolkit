@@ -83,6 +83,7 @@ AI-Account-Toolkit/
 ### 📜 Codex 模块 (packages/codex)
 
 - **[CPA-Manager-Plus](packages/codex/CPA-Manager-Plus/README.md)**: Codex Plus Account 管理工具，支持 Token 批量管理与转换。
+- **[CPA2sub2API](packages/codex/CPA2sub2API/README.md)**: CPA 格式 Token 转 sub2api 格式工具。
 - **[codex-lb](packages/codex/codex-lb/README.md)**: Codex 负载均衡器。
 - **[codex-register](packages/codex/codex-register/README.md)**: Codex 账号协议注册机。
 - **[codex-register-fix](packages/codex/codex-register-fix/README.md)**: Codex 注册修复增强版。
@@ -156,7 +157,7 @@ find . -name "requirements.txt" -not -path "*/node_modules/*" -exec pip install 
 
 ---
 
-## 📋 子模块列表 (共 29 个)
+## 📋 子模块列表 (共 30 个)
 
 | 分类 | 路径 | 核心功能 |
 | :--- | :--- | :--- |
